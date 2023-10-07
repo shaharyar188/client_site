@@ -624,8 +624,8 @@ export default function Home() {
                                     />
                                 </figure>
                                 <div className="author-info bounce-x">
-                                    <h3 className="name">Farhat Babar (Principal)</h3>
-                                    <span className="designation">Maths teacher</span>
+                                    <h3 className="name">Farhat Babar</h3>
+                                    <span className="designation">Principal</span>
                                 </div>
                             </div>
                         </div>
